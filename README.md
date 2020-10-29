@@ -27,4 +27,4 @@ after running this command in your terminal, you can test your application on ht
 
 Once you have everything setup, the website should great you with a nice welcome message 
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](application.jpg?raw=true "Application")
