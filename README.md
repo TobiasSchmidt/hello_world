@@ -1,10 +1,12 @@
-# hello_world
+# Installation & Requirements
 
-Run $ git clone https://github.com/TobiasSchmidt/hello_world on your terminal to add the repository to your Desktop
+Run  the following command on your terminal to add the repository to your Desktop
+
+    $ git clone https://github.com/TobiasSchmidt/hello_world
 
 Install Node.js and the npm package manager from the official site https://nodejs.org
 
-Run the following commands in your repository's folder
+Add npm to your repository's folder with the following command
 
     npm install
     npm init
@@ -20,3 +22,9 @@ Add this command to your test script in the package.json
 after running this command in your terminal, you can test your application on http://127.0.0.1:8080
 
     npm test
+    
+# Application
+
+Once you have everything setup, the website should great you with a nice welcome message 
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
