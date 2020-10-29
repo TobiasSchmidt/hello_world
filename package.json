@@ -1,0 +1,22 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobiasSchmidt/hello_world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TobiasSchmidt/hello_world/issues"
+  },
+  "homepage": "https://github.com/TobiasSchmidt/hello_world#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
